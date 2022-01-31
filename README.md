@@ -1,1 +1,4 @@
 # lfms
+* Madeeha
+* Richard
+* Neha
